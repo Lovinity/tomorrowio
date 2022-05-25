@@ -1,0 +1,30 @@
+{
+  "name": "tomorrowio",
+  "version": "0.0.1-alpha",
+  "description": "A Node.js library for interacting with the tomorrowIO v4 weather API",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lovinity/tomorrowio.git"
+  },
+  "keywords": [
+    "tomorrowio",
+    "weather",
+    "api"
+  ],
+  "author": "Patrick Schmalstig",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Lovinity/tomorrowio/issues"
+  },
+  "homepage": "https://github.com/Lovinity/tomorrowio#readme",
+  "dependencies": {
+    "typescript": "^4.7.2"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1"
+  }
+}
