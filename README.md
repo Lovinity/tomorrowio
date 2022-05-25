@@ -1,12 +1,12 @@
 # tomorrowio
 A Node.js library written in Typescript for interacting with the tomorrowIO v4 weather API. Our goal is near 100% coverage of the TomorrowIO API.
 
+**This library is currently under development and not ready for production use.**
+
 ## Why?
 
 - Currently, there are no maintained Node.js libraries providing near full coverage of the tomorrow.io API. Most libraries are either in Python, written for a specific feature, or are not currently maintained.
 - Tomorrow.io's openAPI implementation via the api NPM repository is unstable. The api library does not support type definitions (and probably never will due to how it works), and tomorrow.io's openAPI definitions do not always work outside of the actual documentation website (it reports no available API paths).
-
-**This library is currently under development and not ready for production use.**
 
 ## Current Features
 None at the moment! This is an empty repository.
